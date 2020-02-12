@@ -103,7 +103,8 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 3rem;
+  font-size: 2rem;
+  margin-bottom: 0em;
 }
 
 .dev-icons .list-inline-item i:hover {
