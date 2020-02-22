@@ -116,10 +116,6 @@ p.lead {
   margin-bottom: 0em;
 }
 
-.dev-icons .list-inline-item i:hover {
-  color: var(--icon-bg-hover);
-}
-
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
