@@ -4,6 +4,15 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
+@media screen and (max-width: 600px) {
+    span.txt-rotate {
+        display: block;
+    }
+    .mobilecenter {
+        text-align: center;
+    }
+}
+
 :root {
     --text-color: #868e96;
     --heading-color: #343a40;
@@ -105,10 +114,6 @@ p.lead {
 .dev-icons {
   font-size: 2rem;
   margin-bottom: 0em;
-}
-
-.dev-icons .list-inline-item i:hover {
-  color: var(--icon-bg-hover);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
