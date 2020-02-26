@@ -249,7 +249,7 @@ a:hover, a:focus, a:active {
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #f08080;
 }
 
 input:focus + .slider {
